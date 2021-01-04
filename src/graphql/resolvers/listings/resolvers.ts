@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 import { IResolvers } from 'apollo-server-express'
 import { Database,Listing } from '../../../lib/types'
 import { ObjectID } from 'mongodb'
